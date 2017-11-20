@@ -1,0 +1,6 @@
+Schema: name,athletenmae,age,country,year,closingdate,sport,goldmedals,silver medals,bronze medals,total medals
+1:Using the dataset list the total number of medals won by each country in swimming.
+2)Display real life number of medals India won year wise.
+3)Find the total number of medals each country won display the name along with total medals.
+4)Find the real life number of gold medals each country won.
+5)Which country got medals for Shooting, year wise classification?
